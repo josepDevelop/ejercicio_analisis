@@ -1,3 +1,2 @@
 flask
 Werkzeug
-sqlite3
